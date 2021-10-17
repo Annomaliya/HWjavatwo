@@ -17,5 +17,6 @@ public class QADleE {
         int c = 144;
         System.out.println(Math.sqrt(c));
 
+
     }
 }
