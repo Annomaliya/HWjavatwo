@@ -1,6 +1,6 @@
 public class inkrement {
     public static void main(String[] args) {
-        int a = 12;
+        int a = 11;
         int b = ++a;
         int x = a++;
         int z = 8;
